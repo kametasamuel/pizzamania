@@ -1,0 +1,32 @@
+body{
+    margin-top: 100px;
+}
+.lightslategray{
+    background-color: lightslategray;
+    margin: 0;
+    height: 50px;
+}
+.lightslategray p{
+    color: white;
+    font-size: 30px;
+}
+.lightgray{
+    background-color: lightgray;
+    margin: 0;
+    height: 50px;
+    border: 0.1px rgb(189, 170, 170) solid;
+}
+.lightgray p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.coral{
+    background-color: coral;
+    height: 50px;
+    margin: 0;
+    border: 0.1px rgb(189, 170, 170) solid;
+}
+.coral p{
+    color: white;
+    font-size: 20px;
+}

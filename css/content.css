@@ -1,0 +1,22 @@
+#header{
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+}
+
+
+.container-fluid{
+    margin-bottom:100px;
+    margin-top: 20px;
+}
+
+#button{
+    margin-bottom: 50px;
+    margin-left: 250px;
+}
+
+#form{
+    margin-bottom: 50px;
+}
